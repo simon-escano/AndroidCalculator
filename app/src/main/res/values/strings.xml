@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Calculator2</string>
+    <string name="txtNum1">1</string>
+    <string name="txtNum2">2</string>
+    <string name="txtNum3">3</string>
+    <string name="txtNum4">4</string>
+    <string name="txtNum5">5</string>
+    <string name="txtNum6">6</string>
+    <string name="txtNum7">7</string>
+    <string name="txtNum8">8</string>
+    <string name="txtNum9">9</string>
+    <string name="txtNum0">0</string>
+    <string name="txtAdd">+</string>
+    <string name="txtSub">-</string>
+    <string name="txtMul">*</string>
+    <string name="txtDiv">/</string>
+    <string name="txtEqu">=</string>
+    <string name="txtClr">C</string>
+    <string name="txtAllClr">AC</string>
+    <string name="txtPar">( )</string>
+    <string name="txtDot">.</string>
+</resources>
